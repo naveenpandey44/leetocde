@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/naveenpandey44/leetocde/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/naveenpandey44/leetocde/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
