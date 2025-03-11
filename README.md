@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/naveenpandey44/leetocde/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
+| [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/naveenpandey44/leetocde/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
+| [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenpandey44/leetocde/tree/master/0380-insert-delete-getrandom-o1) |
+## String
+|  |
+| ------- |
+| [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 <!---LeetCode Topics End-->
