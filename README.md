@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveenpandey44/leetocde/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/naveenpandey44/leetocde/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/naveenpandey44/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/naveenpandey44/leetocde/tree/master/0303-range-sum-query-immutable) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/naveenpandey44/leetocde/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/naveenpandey44/leetocde/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
