@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
 | [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1603-running-sum-of-1d-array](https://github.com/naveenpandey44/leetocde/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/naveenpandey44/leetocde/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1603-running-sum-of-1d-array](https://github.com/naveenpandey44/leetocde/tree/master/1603-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
