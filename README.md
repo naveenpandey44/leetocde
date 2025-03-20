@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naveenpandey44/leetocde/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/naveenpandey44/leetocde/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naveenpandey44/leetocde/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/naveenpandey44/leetocde/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/naveenpandey44/leetocde/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/naveenpandey44/leetocde/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveenpandey44/leetocde/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
