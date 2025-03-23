@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naveenpandey44/leetocde/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/naveenpandey44/leetocde/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naveenpandey44/leetocde/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/naveenpandey44/leetocde/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/naveenpandey44/leetocde/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naveenpandey44/leetocde/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/naveenpandey44/leetocde/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/naveenpandey44/leetocde/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/naveenpandey44/leetocde/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
