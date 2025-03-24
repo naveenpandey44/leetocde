@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naveenpandey44/leetocde/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenpandey44/leetocde/tree/master/0380-insert-delete-getrandom-o1) |
+| [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
 ## Randomized
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
