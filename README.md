@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/naveenpandey44/leetocde/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveenpandey44/leetocde/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/naveenpandey44/leetocde/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -142,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
 | [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
