@@ -1,13 +1,13 @@
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        if (head == null || head.next == null) return head;  // Fix: Use 'head' instead of 'curr'
+        if (head == null || head.next == null) return head; 
         
         ListNode chota = new ListNode(0);
         ListNode bara = new ListNode(0);
         ListNode chotaD = chota;
         ListNode baraD = bara;
         
-        ListNode curr = head;  // Fix: Declare and initialize 'curr' to traverse the list
+        ListNode curr = head; 
         
         while (curr != null) {
             if (curr.val < x) {
