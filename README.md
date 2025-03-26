@@ -144,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
+| [0328-odd-even-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
