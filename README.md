@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/naveenpandey44/leetocde/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
