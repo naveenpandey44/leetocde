@@ -6,7 +6,7 @@ class Solution {
         mapping.put('}', '{');
         mapping.put(']', '[');
 
-        for (char c : s.toCharArray()) {
+        for(char c : s.toCharArray()) {
             if (mapping.containsValue(c)) {
                 stack.push(c);
             } else if (mapping.containsKey(c)) {
