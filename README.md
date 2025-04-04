@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/naveenpandey44/leetocde/tree/master/0344-reverse-string) |
 | [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 ## Tree
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
