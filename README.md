@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveenpandey44/leetocde/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/naveenpandey44/leetocde/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/naveenpandey44/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/naveenpandey44/leetocde/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0908-middle-of-the-linked-list) |
