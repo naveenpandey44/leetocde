@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/naveenpandey44/leetocde/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/naveenpandey44/leetocde/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/naveenpandey44/leetocde/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0328-odd-even-linked-list) |
@@ -169,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/naveenpandey44/leetocde/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
