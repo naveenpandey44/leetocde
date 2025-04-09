@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
 | [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/naveenpandey44/leetocde/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1603-running-sum-of-1d-array](https://github.com/naveenpandey44/leetocde/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/naveenpandey44/leetocde/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/naveenpandey44/leetocde/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveenpandey44/leetocde/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/naveenpandey44/leetocde/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
