@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/naveenpandey44/leetocde/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveenpandey44/leetocde/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/naveenpandey44/leetocde/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naveenpandey44/leetocde/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/naveenpandey44/leetocde/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/naveenpandey44/leetocde/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 ## Counting
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naveenpandey44/leetocde/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
