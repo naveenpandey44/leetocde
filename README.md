@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/naveenpandey44/leetocde/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
