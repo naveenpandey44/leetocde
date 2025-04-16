@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/naveenpandey44/leetocde/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/naveenpandey44/leetocde/tree/master/0344-reverse-string) |
 | [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
 ## Stack
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/naveenpandey44/leetocde/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
