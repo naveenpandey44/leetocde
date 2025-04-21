@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naveenpandey44/leetocde/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveenpandey44/leetocde/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/naveenpandey44/leetocde/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/naveenpandey44/leetocde/tree/master/0138-copy-list-with-random-pointer) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/naveenpandey44/leetocde/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveenpandey44/leetocde/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/naveenpandey44/leetocde/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenpandey44/leetocde/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/naveenpandey44/leetocde/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveenpandey44/leetocde/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
