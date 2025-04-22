@@ -1,5 +1,3 @@
-import java.util.LinkedList;
-import java.util.Queue;
 
 class MyStack {
     Queue<Integer> q1 = new LinkedList<>();
