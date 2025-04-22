@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naveenpandey44/leetocde/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/naveenpandey44/leetocde/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenpandey44/leetocde/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/0838-design-linked-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/naveenpandey44/leetocde/tree/master/0225-implement-stack-using-queues) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/naveenpandey44/leetocde/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/naveenpandey44/leetocde/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
