@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/naveenpandey44/leetocde/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/naveenpandey44/leetocde/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naveenpandey44/leetocde/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/naveenpandey44/leetocde/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/naveenpandey44/leetocde/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenpandey44/leetocde/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/naveenpandey44/leetocde/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/naveenpandey44/leetocde/tree/master/0225-implement-stack-using-queues) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/naveenpandey44/leetocde/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
