@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/naveenpandey44/leetocde/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/naveenpandey44/leetocde/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/naveenpandey44/leetocde/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/naveenpandey44/leetocde/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/naveenpandey44/leetocde/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveenpandey44/leetocde/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveenpandey44/leetocde/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/naveenpandey44/leetocde/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/naveenpandey44/leetocde/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/naveenpandey44/leetocde/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/naveenpandey44/leetocde/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveenpandey44/leetocde/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/naveenpandey44/leetocde/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/naveenpandey44/leetocde/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
