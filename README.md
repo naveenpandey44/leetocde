@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/naveenpandey44/leetocde/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenpandey44/leetocde/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/naveenpandey44/leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/naveenpandey44/leetocde/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/naveenpandey44/leetocde/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/naveenpandey44/leetocde/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/naveenpandey44/leetocde/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naveenpandey44/leetocde/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/naveenpandey44/leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/naveenpandey44/leetocde/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/naveenpandey44/leetocde/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/naveenpandey44/leetocde/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/naveenpandey44/leetocde/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/naveenpandey44/leetocde/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/naveenpandey44/leetocde/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/naveenpandey44/leetocde/tree/master/0890-lemonade-change) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/naveenpandey44/leetocde/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/naveenpandey44/leetocde/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/naveenpandey44/leetocde/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/naveenpandey44/leetocde/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
