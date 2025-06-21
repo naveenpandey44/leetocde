@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/naveenpandey44/leetocde/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/naveenpandey44/leetocde/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/naveenpandey44/leetocde/tree/master/0890-lemonade-change) |
 | [1006-vowel-spellchecker](https://github.com/naveenpandey44/leetocde/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/naveenpandey44/leetocde/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/naveenpandey44/leetocde/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/naveenpandey44/leetocde/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/naveenpandey44/leetocde/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/naveenpandey44/leetocde/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/naveenpandey44/leetocde/tree/master/0890-lemonade-change) |
 ## Design
 |  |
 | ------- |
